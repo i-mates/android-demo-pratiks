@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appwidget1" />
+            <option value="$PROJECT_DIR$/arithmeticdemo" />
+            <option value="$PROJECT_DIR$/chckbox" />
+            <option value="$PROJECT_DIR$/cheesesquare" />
+            <option value="$PROJECT_DIR$/dateandtimepicker" />
+            <option value="$PROJECT_DIR$/dialerintent" />
+            <option value="$PROJECT_DIR$/dropdownlist" />
+            <option value="$PROJECT_DIR$/droplist" />
+            <option value="$PROJECT_DIR$/filecontent1" />
+            <option value="$PROJECT_DIR$/lh-totask" />
+            <option value="$PROJECT_DIR$/lh-twitter" />
+            <option value="$PROJECT_DIR$/materisldesigndemo" />
+            <option value="$PROJECT_DIR$/radio-button" />
+            <option value="$PROJECT_DIR$/remindly" />
+            <option value="$PROJECT_DIR$/sidebarmenu" />
+            <option value="$PROJECT_DIR$/sidebarwithmenu" />
+            <option value="$PROJECT_DIR$/soundeffect" />
+            <option value="$PROJECT_DIR$/spinneerdropdownlist" />
+            <option value="$PROJECT_DIR$/statusbar" />
+            <option value="$PROJECT_DIR$/student" />
+            <option value="$PROJECT_DIR$/texttospeech" />
+            <option value="$PROJECT_DIR$/video" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,92 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+               android:layout_width="fill_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:padding="20dp">
+
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Select your Country"
+    android:textAppearance="?android:attr/textAppearanceLarge" />
+
+<RadioGroup
+    android:id="@+id/radioGroup"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RadioButton
+        android:id="@+id/radioButton1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="India " />
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="United States" />
+
+    <RadioButton
+        android:id="@+id/radioButton3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Bangladesh" />
+    <RadioButton
+        android:id="@+id/radioButton4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="London" />
+    <RadioButton
+        android:id="@+id/radioButton5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Australia" />
+    <RadioButton
+        android:id="@+id/radioButton6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Canada" />
+    <RadioButton
+        android:id="@+id/radioButton7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="China" />
+    <RadioButton
+        android:id="@+id/radioButton8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Japan" />
+    <RadioButton
+        android:id="@+id/radioButton9"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="France" />
+</RadioGroup>
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/clearBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="onClear"
+        android:text="Clear " />
+
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="onSubmit"
+        android:text="Submit" />
+</LinearLayout>
+
+
+</LinearLayout>

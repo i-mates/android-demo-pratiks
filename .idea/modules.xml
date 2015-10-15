@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-demo-pratiks1.iml" filepath="$PROJECT_DIR$/android-demo-pratiks1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appwidget1/appwidget1.iml" filepath="$PROJECT_DIR$/appwidget1/appwidget1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arithmeticdemo/arithmeticdemo.iml" filepath="$PROJECT_DIR$/arithmeticdemo/arithmeticdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chckbox/chckbox.iml" filepath="$PROJECT_DIR$/chckbox/chckbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheesesquare/cheesesquare.iml" filepath="$PROJECT_DIR$/cheesesquare/cheesesquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dateandtimepicker/dateandtimepicker.iml" filepath="$PROJECT_DIR$/dateandtimepicker/dateandtimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialerintent/dialerintent.iml" filepath="$PROJECT_DIR$/dialerintent/dialerintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropdownlist/dropdownlist.iml" filepath="$PROJECT_DIR$/dropdownlist/dropdownlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droplist/droplist.iml" filepath="$PROJECT_DIR$/droplist/droplist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filecontent1/filecontent1.iml" filepath="$PROJECT_DIR$/filecontent1/filecontent1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lh-totask/lh-totask.iml" filepath="$PROJECT_DIR$/lh-totask/lh-totask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lh-twitter/lh-twitter.iml" filepath="$PROJECT_DIR$/lh-twitter/lh-twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materisldesigndemo/materisldesigndemo.iml" filepath="$PROJECT_DIR$/materisldesigndemo/materisldesigndemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radio-button/radio-button.iml" filepath="$PROJECT_DIR$/radio-button/radio-button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remindly/remindly.iml" filepath="$PROJECT_DIR$/remindly/remindly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidebarmenu/sidebarmenu.iml" filepath="$PROJECT_DIR$/sidebarmenu/sidebarmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidebarwithmenu/sidebarwithmenu.iml" filepath="$PROJECT_DIR$/sidebarwithmenu/sidebarwithmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soundeffect/soundeffect.iml" filepath="$PROJECT_DIR$/soundeffect/soundeffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinneerdropdownlist/spinneerdropdownlist.iml" filepath="$PROJECT_DIR$/spinneerdropdownlist/spinneerdropdownlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statusbar/statusbar.iml" filepath="$PROJECT_DIR$/statusbar/statusbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/student.iml" filepath="$PROJECT_DIR$/student/student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/texttospeech/texttospeech.iml" filepath="$PROJECT_DIR$/texttospeech/texttospeech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video/video.iml" filepath="$PROJECT_DIR$/video/video.iml" />
+    </modules>
+  </component>
+</project>

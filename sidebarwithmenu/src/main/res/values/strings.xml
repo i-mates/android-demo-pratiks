@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SideBarWithMenu</string>
+
+    <string name="title_section1">Paneer Kadhai</string>
+    <string name="title_section2"> Khurma</string>
+    <string name="title_section3"> Handi</string>
+
+    <string name="navigation_drawer_opened">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Order Now</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

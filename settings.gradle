@@ -1,0 +1,1 @@
+include ':app', ':student', ':lh-twitter', ':cheesesquare', ':remindly', ':dropdownlist', ':droplist', ':radio-button', ':chckbox', ':filecontent1', ':soundeffect', ':arithmeticdemo', ':video', ':appwidget1', ':dialerintent', ':dateandtimepicker', ':statusbar', ':lh-totask', ':sidebarmenu', ':sidebarwithmenu', ':texttospeech', ':spinneerdropdownlist', ':materisldesigndemo'

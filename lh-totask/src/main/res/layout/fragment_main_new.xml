@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/color_clouds"
+	android:orientation="vertical"
+	android:padding="4dp"
+	tools:context=".MainActivity">
+
+	<Button
+		android:id="@+id/btnFetchCourseraCatlog"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/bg_btn_red"
+		android:gravity="center_horizontal"
+		android:padding="4dp"
+		android:text="Fetch COURSERA CATLOG"
+		android:textSize="32sp"
+		android:textStyle="bold"
+		android:visibility="gone" />
+
+	<ListView
+		android:id="@+id/lvCourses"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:animateLayoutChanges="true"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="0dp"
+		android:scrollbars="vertical"
+		android:visibility="gone" />
+
+	<ProgressBar
+		android:id="@+id/progressBar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal|center_vertical"
+		android:layout_marginTop="40dp"
+		android:indeterminate="true"
+		android:padding="4dp"
+		android:visibility="gone" />
+
+</LinearLayout>

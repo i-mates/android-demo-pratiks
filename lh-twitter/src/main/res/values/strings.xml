@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LH Twitter</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_timeline">Timeline</string>
+    <string name="nav_item_tweet">Tweet</string>
+    <string name="nav_item_account">Account</string>
+    <string name="nav_item_logout">Logout</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_timeline</item>
+        <item>@string/nav_item_tweet</item>
+        <item>@string/nav_item_account</item>
+    </string-array>
+
+    <integer-array name="nav_drawer_label_pics">
+        <item>@drawable/composetweet</item>
+        <item>@drawable/retweet</item>
+        <item>@drawable/verified</item>
+    </integer-array>
+
+    <string name="title_home_timeline">Home Timeline</string>
+    <string name="title_tweet">Update a Tweet</string>
+    <string name="title_account">Twitter Account</string>
+
+    <string name="text_disclaimer">Disclaimer:\n\nThis app won\'t capture your credentials or indulge in any anti-privacy activities\nYou\'re safe :)\n\nJigyasa Codes</string>
+
+    <string name="api_key">G7sol9ofG6c3W4vp5tesDdi0m</string>
+    <string name="api_secret">AF9PiVvdGdE0TDB9qYbsCbM9z2Z82mjmIsiiL5yea1RpLnEtgb</string>
+</resources>
