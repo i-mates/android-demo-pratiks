@@ -16,6 +16,8 @@ public class Activity3 extends Activity {
     private Button btn;
     private TextView tv,info1,info2,info3;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
